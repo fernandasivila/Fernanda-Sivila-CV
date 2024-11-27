@@ -4,7 +4,7 @@
 
 ## 📄 Contenido
 
-- **CV en PDF**: [CV_Fernanda_Sivila.pdf](./CV_Fernanda_Sivila.pdf) – Mi currículum actualizado en formato PDF.
+- **CV**: [CV_Fernanda_Sivila.pdf](./CV_Fernanda_Sivila.pdf)
 
 ## 👩‍💻 Habilidades y Herramientas
 
@@ -17,6 +17,6 @@
 
 Si deseas contactar conmigo o discutir alguna de mis experiencias, no dudes en enviarme un mensaje a través de:
 
-- **Email**: [tu-email@dominio.com](sivila.fernandab@gmail.com)
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/fernanda-sivila/)
+- **Email**: [sivila.fernandab@gmail.com](sivila.fernandab@gmail.com)
+- **LinkedIn**: [Fernanda Sivila](https://www.linkedin.com/in/fernanda-sivila/)
 

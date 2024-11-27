@@ -4,7 +4,7 @@
 
 ## 📄 Contenido
 
-- **CV**: [CV_Fernanda_Sivila.pdf](./CV_Fernanda_Sivila.pdf)
+- **CV**: [CV_Fernanda_Sivila.pdf](https://github.com/fernandasivila/Fernanda-Sivila-CV/blob/master/CV_Fernanda%20Sivila.pdf)
 
 ## 👩‍💻 Habilidades y Herramientas
 

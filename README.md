@@ -8,10 +8,10 @@
 
 ## 👩‍💻 Habilidades y Herramientas
 
-- **Lenguajes y Tecnologías**: JavaScript, TypeScript, React, Angular, Node.js, MYSQL, MongoDB, HTML, CSS, Tailwind CSS etc.
-- **Herramientas de Desarrollo**: Git, GitHub, Docker, VS Code, etc.
+- **Lenguajes y Tecnologías**: JavaScript, TypeScript, React, Angular, Node.js, MYSQL, MongoDB, HTML, CSS, Tailwind CSS, Redux Toolkit, etc
+- **Herramientas de Desarrollo**: Git, GitHub, Docker, VS Code, etc
 - **Metodologías**: Desarrollo Ágil, Scrum.
-- **Otros**: experiencia con APIs, control de versiones.
+- **Otros**: experiencia con APIs, control de versiones, utilización de Web Sockets
 
 ## 📧 Contacto
 
